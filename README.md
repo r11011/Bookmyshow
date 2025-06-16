@@ -46,5 +46,5 @@ The database consists of the following tables:
 ---
 
 **Author:**  
-Your Name  
+Rakesh S R 
 2025
